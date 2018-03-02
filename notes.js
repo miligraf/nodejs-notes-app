@@ -17,7 +17,7 @@ var addNote = (title, body) => {
   }
 
   var duplicateNotes = notes.filter((note) => {
-
+    
   });
 
   notes.push(note);
